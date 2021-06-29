@@ -2,6 +2,7 @@
 Phase Vocoder In Python
 This module is based on PyGame and PyAudio.
 ![alt tag](https://github.com/haoyu987/phasevocoder/blob/master/docs/GUI.PNG)
+![alttext](https://github.com/haoyu987/phasevocoder/blob/master/docs/GUI.PNG "Fig.1")
 fig 1
 
 Pitch shifting can be realized by simply changing the frame rate when playing the sound. But in this way, the length of the signal is also changed. So if we can scale the time of the signal while leave the pitch unchanged, we can get a pitch shifted version of the original sound with the same length.
