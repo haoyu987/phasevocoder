@@ -40,8 +40,15 @@ For more detailed explanation, refer to the report in docs.
 http://blogs.zynaptiq.com/bernsee/pitch-shifting-using-the-ft/
 4.	Guitar Pitch shifter by François Grondin
 http://www.guitarpitchshifter.com/algorithm.html#33
+5.	A phase vocoder in python
+https://audioprograming.wordpress.com/2012/03/02/a-phase-vocoder-in-python/
+6.	Python, Pitch Shifting, and the Pianoputer
+http://zulko.github.io/blog/2014/03/29/soundstretching-and-pitch-shifting-in-python/
+7.	miniGUI
+http://cs.iupui.edu/~aharris/pygame/ch09/miniGUI.py
+
 
 # Special thanks
-François Grondin's work, guitar pitch shifter, has been a great help to me when I did this project.
-His website is here http://www.guitarpitchshifter.com/index.html
-I have included two figures (Fig2 and Fig4) from his website under his permission.
+François Grondin's work, guitar pitch shifter, has been a great help to me when I did this project.<br/>
+His website is here http://www.guitarpitchshifter.com/index.html<br/>
+I have included two figures (Fig2 and Fig4) from his website under his permission.<br/>
