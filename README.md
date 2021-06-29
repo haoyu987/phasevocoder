@@ -41,9 +41,7 @@ http://blogs.zynaptiq.com/bernsee/pitch-shifting-using-the-ft/
 4.	Guitar Pitch shifter by François Grondin
 http://www.guitarpitchshifter.com/algorithm.html#33
 
-# special thanks
+# Special thanks
 François Grondin's work, guitar pitch shifter, has been a great help to me when I did this project.
-
 His website is here http://www.guitarpitchshifter.com/index.html
-
 I have included two figures (Fig2 and Fig4) from his website under his permission.
